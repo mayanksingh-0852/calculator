@@ -13,8 +13,6 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - AC & DEL buttons
 - Responsive UI
 
-## 📸 Screenshot
-(Add image)
-
 ## 🔗 Live Demo
 (https://calculator-mayank.netlify.app/)
+
